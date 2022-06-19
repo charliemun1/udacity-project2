@@ -1,6 +1,7 @@
 ## Deploy a high-availability web app using CloudFormation
 
 This is an ALX-T Cloud DevOps Engineer Nanodegree Program project
+The goal was to deploy servers for a highly available web app using CloudFormation
 
 ## App Preview
 
